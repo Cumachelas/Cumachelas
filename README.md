@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cumachelas
+- 👀 I’m very interested in tech and cybersecurity.
+- 🌱 I’m currently learning how to write code for AVR microcontrollers.
+- 💞️ I’m looking to collaborate on everything and anything, feel free to reach out!
+- 📫 You can reach me here on GitHub, or on Instagram @moonspark_photography
